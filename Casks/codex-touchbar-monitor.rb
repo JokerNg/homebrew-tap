@@ -7,7 +7,7 @@ cask "codex-touchbar-monitor" do
   desc "Monitor Codex usage on the MacBook Touch Bar"
   homepage "https://github.com/JokerNg/CodexTouchBarMonitor"
 
-  depends_on macos: ">= :big_sur"
+  depends_on macos: :big_sur
 
   app "CodexTouchBarMonitor.app"
 
