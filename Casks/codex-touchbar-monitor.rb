@@ -8,6 +8,7 @@ cask "codex-touchbar-monitor" do
   homepage "https://github.com/JokerNg/CodexTouchBarMonitor"
 
   depends_on macos: :big_sur
+  depends_on arch: :arm64
 
   app "CodexTouchBarMonitor.app"
 
