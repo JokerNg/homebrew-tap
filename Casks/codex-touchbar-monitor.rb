@@ -1,6 +1,6 @@
 cask "codex-touchbar-monitor" do
-  version "0.1.14"
-  sha256 "a6b745e6a36ab0cbb50d0c0194aabef9f50f2ca99b10d9f0f468f386dc940f15"
+  version "0.1.15"
+  sha256 "cfda77bbd2adac83ecc1f9d5fd8f1ec1865493e952628e2b691073a489ac98f1"
 
   url "https://github.com/JokerNg/CodexTouchBarMonitor/releases/download/v#{version}/CodexTouchBarMonitor-#{version}.dmg"
   name "CodexTouchBarMonitor"
