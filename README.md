@@ -14,4 +14,4 @@ brew upgrade --cask codex-touchbar-monitor
 brew upgrade --cask mxcontrol
 ```
 
-The casks download release DMG files from [CodexTouchBarMonitor](https://github.com/JokerNg/CodexTouchBarMonitor/releases) and [MXControl](https://github.com/JokerNg/MXControl/releases).
+The casks download release DMG files from [CodexTouchBarMonitor](https://github.com/JokerNg/Codex-TouchBar-Monitor/releases) and [MXControl](https://github.com/JokerNg/MXControl/releases).
